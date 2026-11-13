@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.rahimia.attendancehub",
+        "sha256_cert_fingerprints": ["0B:E2:37:D9:ED:CC:00:F4:01:B0:E1:C0:FA:1D:38:3B:39:6F:46:C1:06:A8:88:80:B4:E0:39:96:04:FA:E9:97"]
+      }
+    }]
